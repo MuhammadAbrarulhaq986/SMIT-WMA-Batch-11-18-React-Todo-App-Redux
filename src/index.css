@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+* {
+  margin: 5px;
+  padding: 5px;
+}
+
+body {
+  /* margin: 2px;
+    padding: 2px; */
+  /* overflow-y: hidden; */
+  overflow-x: hidden;
+  font-size: 30px;
+  font-family: sans-serif;
+  background-color: black;
+  background-image: url("././image/background.webp");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  height: 100vh;
+  background-attachment: fixed;
+  overflow: hidden;
+
+  /* overflow: hidden; */
+}
+
+.todo {
+  background-color: rgba(0, 0, 0, 0.324);
+}
