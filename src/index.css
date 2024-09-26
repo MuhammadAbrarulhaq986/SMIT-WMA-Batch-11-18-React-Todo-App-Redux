@@ -13,7 +13,7 @@ body {
   overflow-x: hidden;
   font-size: 30px;
   font-family: sans-serif;
-  background-color: black;
+  background-color: rgb(0, 0, 0);
   background-image: url("././image/background.webp");
   background-size: cover;
   background-position: center;
@@ -26,5 +26,5 @@ body {
 }
 
 .todo {
-  background-color: rgba(0, 0, 0, 0.324);
+  background-color: rgba(0, 0, 0, 0.626);
 }
